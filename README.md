@@ -69,3 +69,5 @@ Develop metrics to calculate shipping costs based on order quantities, optimizin
 - **COGM (Cost of Goods Manufactured):** "COGM" or "Cost of Goods Manufactured" represents the total production costs incurred by a company during a specific period, including direct labor, direct materials, and manufacturing overhead.
 - **CLV (LVT, CLVT, CVL):** "CLV" or "Customer Lifetime Value" refers to the predicted total revenue a business expects to earn from a customer throughout their entire relationship with the company.
 - **CAC (Customer Acquisition Cost):** "CAC" or "Customer Acquisition Cost" is the average expense incurred by a business to acquire a single customer, encompassing all marketing and sales costs.
+
+Sources Data: [Data Camp](https://app.datacamp.com/)

@@ -21,6 +21,8 @@ Utilize visualization tools in Power BI to showcase the distribution of customer
 - **Visualizing Customer Lifetime Value (CLV) in Each State:**
 Calculate and visualize the CLV for customers in each state to understand their long-term value.
 
+![ScreenShot CustomerInfo](docs/img/CustomerInfo.png)
+
 - **Visualizing Total Sales by Category and Description:**
 Aggregate sales data based on product categories and descriptions to identify top-performing products.
 
@@ -30,20 +32,30 @@ Analyze sales data to determine which product categories have the highest quanti
 - **Finding Average Shipping Cost of Each Item:**
 Calculate and analyze the average shipping cost for each product, identifying items with higher shipping costs.
 
+![ScreenShot CustomerInfo](docs/img/ProductInfo.png)
+
 - **Visualizing Total Sales Based on Average Quantity and Quantity of Each Invoice:**
 Utilize visualizations to understand sales patterns based on average quantity and quantity per invoice.
+
+![ScreenShot CustomerInfo](docs/img/QuantityInfo.png)
 
 - **Finding Products Purchased More Often in Combination:**
 Analyze transactional data to identify products frequently purchased together, enabling targeted marketing or bundling strategies.
 
+![ScreenShot CustomerInfo](docs/img/MarketBasketAnalysis.png)
+
 - **Finding Total Sales Based on Region and State:**
 Aggregate sales data to understand regional variations in sales performance.
+
+- **AnalyzeProfit Percentage Based on Product Category and Description:**
+Analyze profit margins for different product categories and descriptions to identify areas for improving profitability.
+
+![ScreenShot CustomerInfo](docs/img/ExecutiveSummary.png)
 
 - **Develop Metrics for Calculating Shipping Cost Based on Quantity:**
 Develop metrics to calculate shipping costs based on order quantities, optimizing shipping strategies.
 
-- **AnalyzeProfit Percentage Based on Product Category and Description:**
-Analyze profit margins for different product categories and descriptions to identify areas for improving profitability.
+![ScreenShot CustomerInfo](docs/img/ShippingMetrics.png)
 
 ### Common terms in this business 📖
 - **Landed Cost:** "Landed Cost" refers to the total cost incurred by a business to acquire inventory, including the purchase price, shipping fees, customs duties, taxes, and any other expenses associated with importing goods into the country of destination.
